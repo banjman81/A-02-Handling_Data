@@ -1,7 +1,11 @@
 Explain what the ".map" properties of arrays does.
+    Iterate through array and can be given a variable name to create new varaible
 
 Explain what the ".reduce" properties of arrays does.
+    reduce will iterate an array and return data base on criteria 
 
 How is ".map" different from reduce?
+    creating new variable with map will return undefined if criterai is not met but recude will filter it out. Kind of like .filter and .map in one
 
 What are "switch" statements?
+    switch statements are very similar to if statements but with cases. it will match argument with cases and iof it not met it will returna default. 
